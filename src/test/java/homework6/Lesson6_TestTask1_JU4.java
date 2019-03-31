@@ -1,4 +1,4 @@
-package Homework6;
+package homework6;
 
 //JUnit 4
 
